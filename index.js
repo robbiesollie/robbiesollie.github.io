@@ -1,6 +1,8 @@
-// import React from 'react';
-// import ReactDOM from 'react-dom';
+<script>
+import React from 'react';
+import ReactDOM from 'react-dom';
 import 'index.css';
+</script>
 
 function Square(props) {
   return (
